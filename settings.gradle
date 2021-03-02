@@ -1,0 +1,3 @@
+rootProject.name='CircleImageView'
+include ':app'
+include ':xuehuaview'
